@@ -1,0 +1,2 @@
+# `array`
+Es una variable que puede almacenar varios valores a la vez en forma de cadena, donde cada valor tiene una llave o índice para poder acceder al mismo o modificarlo. El array tiene la propedad "length" para saber la cantidad de valores almacenados en la cadena. También posee varios metodos, entre los que destacamos por ejemplo "push", que nos permite agregar un valor más al final de la cadena, siendo "pop" la forma de quitar el último valor de la cadena.
